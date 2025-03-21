@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nettey Emmanuel | Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Nettey Emmanuel</h1>
+        <p>Computer Science Student | Web Developer | Innovator</p>
+    </header>
+    
+    <section id="about">
+        <h2>About Me</h2>
+        <p>I am a passionate computer science student at the University of Cape Coast, with expertise in web development, Python, JavaScript, and AI. My experience includes leadership roles such as STEM president and winning national IT competitions. I am the CEO of IP Blueprint, a platform dedicated to affiliate marketing and innovation.</p>
+    </section>
+    
+    <section id="skills">
+        <h2>Skills</h2>
+        <ul>
+            <li>Web Development (HTML, CSS, JavaScript, PHP)</li>
+            <li>Python Programming & AI</li>
+            <li>Affiliate Marketing & Business Strategy</li>
+            <li>Problem-Solving & Innovation</li>
+        </ul>
+    </section>
+    
+    <section id="projects">
+        <h2>Projects</h2>
+        <div class="project">
+            <h3>IP Blueprint</h3>
+            <p>A platform focused on affiliate marketing, helping individuals generate revenue online.</p>
+        </div>
+        <div class="project">
+            <h3>AI-Powered Web Tools</h3>
+            <p>Developed intelligent web solutions utilizing AI for automation and data processing.</p>
+        </div>
+    </section>
+    
+    <!-- <section id="pricing">
+        <h2>Pricing</h2>
+        <p>Commented out as it's not applicable at the moment.</p>
+    </section> -->
+    
+    <section id="testimonials">
+        <h2>Testimonials</h2>
+        <p>Coming soon... (or replace with success stories from past projects)</p>
+    </section>
+    
+    <section id="updates">
+        <h2>Recent Highlights</h2>
+        <p>Featured in the MIT Emerging Talent Program | Ongoing research in AI solutions | Hosting educational webinars on IP strategies</p>
+    </section>
+    
+    <footer>
+        <p>Contact: <a href="mailto:nettey.emmanuel@example.com">nettey.emmanuel@example.com</a></p>
+        <p>LinkedIn | GitHub | IP Blueprint</p>
+    </footer>
+</body>
+</html>
